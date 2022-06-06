@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/leetmackoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leetmackoz" height="30" width="40" /></a>
-<a href="https://instagram.com/leetmackoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leetmackoz" height="30" width="40" /></a>
+<a href="https://twitter.com/apachew1x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apachew1x" height="30" width="40" /></a>
+<a href="https://instagram.com/leetmackoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apachew1x" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCitEE3Jz6cXMpgB1tnoROqg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucitee3jz6cxmpgb1tnoroqg" height="30" width="40" /></a>
   <a href="https://steamcommunity.com/id/mackozleet/" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Steam_icon_logo.svg#/media/File:Steam_icon_logo.svg" alt="leetmackoz" height="30" width="40" /></a>
 </p>
